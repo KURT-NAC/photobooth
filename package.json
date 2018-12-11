@@ -1,0 +1,8 @@
+{
+  "name": "photobooth",
+  "version": "1.0.0",
+  "description": "simple app for capturing selfies in webview",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
